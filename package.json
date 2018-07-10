@@ -1,0 +1,19 @@
+{
+  "name": "dirtcandy",
+  "version": "1.0.0",
+  "description": "Redesign Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DODHI5/dirtCandy.git"
+  },
+  "author": "Zubin Dodhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DODHI5/dirtCandy/issues"
+  },
+  "homepage": "https://github.com/DODHI5/dirtCandy#readme"
+}
